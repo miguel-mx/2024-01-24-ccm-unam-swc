@@ -200,7 +200,6 @@ special instructions.
   <li>The room is wheelchair / scooter accessible.</li>
   <li>Accessible restrooms are available.</li>
 </ul>
-{% endcomment %}
 <p>
   Materials will be provided in advance of the workshop and
   large-print handouts are available if needed by notifying the
@@ -219,6 +218,7 @@ special instructions.
   If you have questions or need assistance with the accommodation form please <a href="mailto:team@carpentries.org">email us</a>.
 </p>
 {% endif %}
+{% endcomment %}
 
 {% comment %}
 CONTACT EMAIL ADDRESS
